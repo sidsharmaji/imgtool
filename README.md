@@ -1,6 +1,6 @@
 # Image Master
 
-A powerful image processing tool built with React and Vite. Provides various image manipulation features including compression, conversion, cropping, resizing, and more.
+A powerful image processing web application for editing, resizing, cropping, and converting your images.
 
 ## Features
 - Image compression
@@ -8,6 +8,7 @@ A powerful image processing tool built with React and Vite. Provides various ima
 - Image cropping
 - Resizing
 - Watermarking
+- Format conversion
 
 ## Installation
 1. Clone the repository
@@ -19,3 +20,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+# imgtool
+Image tool is a web application for edit your image compares resize crop and change their format.
+>>>>>>> 61a4dee31725a33ec38d7fac931380bda1de5551
