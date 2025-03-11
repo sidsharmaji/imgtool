@@ -1,6 +1,7 @@
+<<<<<<< HEAD
 # Image Master
 
-A powerful image processing web application for editing, resizing, cropping, and converting your images.
+A powerful image processing tool built with React and Vite. Provides various image manipulation features including compression, conversion, cropping, resizing, and more.
 
 ## Features
 - Image compression
@@ -8,7 +9,6 @@ A powerful image processing web application for editing, resizing, cropping, and
 - Image cropping
 - Resizing
 - Watermarking
-- Format conversion
 
 ## Installation
 1. Clone the repository
